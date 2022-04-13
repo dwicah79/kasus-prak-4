@@ -5,7 +5,7 @@
 int main(){
 	Output output;
 	output.getData();
-  output.cetak();
-  output.toFile();
+        output.cetak();
+        output.toFile();
 	return 0;
 }
